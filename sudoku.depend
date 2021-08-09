@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1627814366 source:d:\termfour\dsa\sudoku\sudoku\main.cpp
+	"SDL_utils.h"
+	"board.h"
+	"ttf.h"
+	"render.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1627611179 source:d:\termfour\dsa\sudoku\sudoku\testsdl.cpp
+	"SDL.h"
+
+1627631455 source:d:\termfour\dsa\sudoku\sudoku\board.cpp
+
+1627790066 d:\termfour\dsa\sudoku\sudoku\board.h
+	<SDL.h>
+
+1627638225 d:\termfour\dsa\sudoku\sudoku\ttf.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1627639508 source:d:\termfour\dsa\sudoku\sudoku\ttf.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<cstring>
+	"ttf.h"
+
+1627640398 source:d:\termfour\dsa\sudoku\sudoku\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+
+1627640398 d:\termfour\dsa\sudoku\sudoku\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1627756194 d:\termfour\dsa\sudoku\sudoku\render.h
+
+1627756194 source:d:\termfour\dsa\sudoku\sudoku\render.cpp
+
